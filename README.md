@@ -6,7 +6,7 @@ Made with ❤ by **Rohit Shah**
 
 ## 🚀 Demo
 
-link- https://rohitshandilya01.github.io/pw-login-page-Tailwind
+link- https://rohitshah012.github.io/pw-login-page-Tailwind
 
 ## ✔️ Features
 
